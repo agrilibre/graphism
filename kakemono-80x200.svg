@@ -15,7 +15,10 @@
    id="svg3474"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="kakemono-80x200.svg">
+   sodipodi:docname="kakemono-80x200.svg"
+   inkscape:export-filename="kakemono-80x200-150dpi.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
   <defs
      id="defs3476">
     <linearGradient
@@ -381,16 +384,6 @@
        y2="6652.6138"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,0.35728304,311.07821,-572.18784)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4002-0-2-9"
-       id="linearGradient8154"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(6.889552,0,0,5.4350907,1142.2971,-7848.8063)"
-       x1="-39.078148"
-       y1="730.15918"
-       x2="-38.35141"
-       y2="638.94244" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3903-7-2"
@@ -472,7 +465,7 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.25"
      inkscape:cx="2493.4935"
@@ -531,7 +524,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>

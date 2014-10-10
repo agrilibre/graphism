@@ -1,3 +1,3 @@
-= Agrism
+= Agrilibre graphism
 
-Graphism for Agrilibre.
+Graphism for Agrilibre association.
